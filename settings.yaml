@@ -1,0 +1,14 @@
+Settings:
+projects:
+  - ML_fumewhood_PCB:
+    - path: ~/_curent/skap/ML_fumehood_PCB/main/fumehood.sch
+      company: ModTech Solutions AB
+      pay_per_hour: 400
+  - alt_pannel:
+    - path: ~/_curent/skap/alt_panel/main/main.sch
+      company: ModTech Solutions AB
+      pay_per_hour: 400
+  - simple_board:
+    - path: ~/_curent/skap/simple_board/simple_board/simple_board.sch
+      company: ModTech Solutions AB
+      pay_per_hour: 400
